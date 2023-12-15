@@ -4,3 +4,4 @@ FIFO Page Replacement Algorithm using OpenGL.
 
 # Pictures from the project
 ![fifo ](https://github.com/ashreee/FIFO/assets/144210861/82a905c6-1b8a-4d13-8091-bcbcef587a65)
+![fifo 1](https://github.com/ashreee/FIFO/assets/144210861/217698c9-44eb-4116-8b30-a35eb22df273)
